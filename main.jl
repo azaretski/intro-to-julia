@@ -254,7 +254,7 @@ not breathing, \
 still as stone in a watery fane."   # (Joshua Eustis, 2019)
 
 # Interpolation into strings
-"Approximately, $(4.6*1e3/230) galactic years has passed since the birth of the Solar System."  # note "$()"
+"Approximately, $(4.6*1e3/230) galactic years have passed since the birth of the Solar System."  # note "$()"
 
 # Some useful functions
 s="hippopotamus"
